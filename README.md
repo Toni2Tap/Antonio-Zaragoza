@@ -11,4 +11,4 @@ Some facts about me:
 
 Feel free to contact me on Github or Linkedin
 
-https://www.linkedin.com/in/antonio-zaragoza
+[https://www.linkedin.com/in/antonio-zaragoza](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B6jWPz3qZQcaVNLlbALxazg%3D%3D)
